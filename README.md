@@ -28,8 +28,8 @@ This will launch the application in development mode, and you can access it at h
 
 ## Technologies Used
 
-- **React (v17.0.2):** A JavaScript library for building user interfaces. It allows for the creation of reusable UI components.
-- **Redux (v2.2.1):** A set of tools to simplify Redux development.
-- **React Router DOM (v6.22.2):** Declarative routing for React applications.
-- **TypeScript (v4.9.5):** A superset of JavaScript that adds static types.
+- **React (v17.0.2):** A JavaScript library for building user interfaces. It allows for the creation of reusable UI components
+- **Redux (v2.2.1):** A set of tools to simplify Redux development
+- **React Router DOM (v6.22.2):** Declarative routing for React applications
+- **TypeScript (v4.9.5):** A superset of JavaScript that adds static types
 
